@@ -13,8 +13,7 @@ Follow these steps to set up the project:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone git@github.com:Ne0sky/taskmaster.git
 2. npm install
 3. npm run dev
 
