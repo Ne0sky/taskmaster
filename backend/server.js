@@ -21,12 +21,13 @@ app.use('/api/tasks',tasksRoutes) // localhost:4000/api/tasks/{taks.... -> new p
 app.use('/api/user/',userRoutes) // localhost:4000/api/tasks/{taks.... -> new path
 
 //cors
-const corsOptions ={
-    origin:'*', 
-    credentials:true,            //access-control-allow-credentials:true
-    optionSuccessStatus:200,
- }
- app.use(cors(corsOptions))
+const corsOptions = {
+    origin: '*',
+    optionSuccessStatus: 200,
+};
+
+app.use(cors(corsOptions));
+
 
 
 //connect to DB
