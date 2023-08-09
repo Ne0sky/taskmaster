@@ -4,7 +4,7 @@ const express = require ('express');
 const mongoose = require('mongoose')
 const tasksRoutes = require('./routes/tasks')
 const userRoutes = require('./routes/user')
-
+const path = require("path")
 //express app
 const app = express();
 
@@ -28,6 +28,7 @@ const corsOptions ={
  }
  app.use(cors(corsOptions))
 
+
 //connect to DB
 mongoose.connect(process.env.MONGO_URL)
 .then(()=>{
@@ -40,5 +41,7 @@ app.listen(process.env.PORT, ()=>{
 .catch((error)=>{
     console.log(error)
 })
+
+
 
 
