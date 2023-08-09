@@ -16,7 +16,7 @@ const About = () => {
           Join Now
         </button></div>
                 <div>
-                    <img src="../src/assets/about.png" className='overflow-hidden max-h-[120rem] w-auto' alt="about img" />
+                    <img src="assets/about.png" className='overflow-hidden max-h-[120rem] w-auto' alt="about img" />
                 </div>
           </div>
 
@@ -27,21 +27,21 @@ const About = () => {
             <div className='flex flex-col lg:flex-row my-2 items-center justify-center gap-16 p-8'>
 
             <div className='p-8 my-4 rounded-xl bg-[#212121] w-[20rem] h-[30rem]'>
-                <img src="../src/assets/simple.png" className='overflow-hidden my-4  ' alt="" />
+                <img src="assets/simple.png" className='overflow-hidden my-4  ' alt="" />
                 <h3 className='text-2xl font-semibold'>Simplicity and Efficiency</h3>
             <p className='text-md text-zinc-400 py-4'> Our user-friendly interface ensures that managing tasks is straightforward and efficient.
                  Spend less time organizing and more time doing.</p>
             </div>
 
             <div className='p-8 my-4 rounded-xl bg-[#212121] w-[20rem] h-[30rem] '>
-            <img src="../src/assets/complete.png" className='overflow-hidden my-4  ' alt="" />
+            <img src="assets/complete.png" className='overflow-hidden my-4  ' alt="" />
                 <h3 className='text-2xl font-semibold'>Completion Tracking</h3>
             <p className='text-md text-zinc-400 py-4'> Mark tasks as completed and experience a sense of accomplishment. 
             Visualize your progress as you check off each task.</p>
             </div>
 
             <div className='p-8 my-4 rounded-xl bg-[#212121] w-[20rem] h-[30rem]'>
-            <img src="../src/assets/custom.png" className='overflow-hidden my-4 ' alt="" />
+            <img src="assets/custom.png" className='overflow-hidden my-4 ' alt="" />
                 <h3 className='text-2xl font-semibold'>Custom Labels</h3>
             <p className='text-md text-zinc-400 py-4'> Personalize tasks with labels and categories that make sense to you.
              Organize your tasks in a way that fits your workflow.</p>

@@ -8,7 +8,7 @@ import About from './pages/About'
 import Tasks from './pages/Tasks'
 import Footer from './components/Footer'
 import Login from './pages/Login'
-import Signup from './pages/SIgnup'
+import Signup from './pages/Signup'
 
 
 function App() {

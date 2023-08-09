@@ -34,7 +34,7 @@ const Home = () => {
       </div>
 
       <div className='flex justify-center items-center md:ml-8 lg:ml-8'> {/* Use margin classes to adjust spacing */}
-        <img src="../src/assets/hero-img.png" className='overflow-hidden max-h-[40rem] w-auto' alt="hero image" />
+        <img src="assets/hero-img.png" className='overflow-hidden max-h-[40rem] w-auto' alt="hero image" />
       </div>
 
       
