@@ -19,8 +19,9 @@ Follow these steps to set up the project:
 
 ### Demonstration
 ### Desktop View
-<br>
+
 #### Home Page
+
 
 ![Tasks Screenshot](https://github.com/Ne0sky/taskmaster/blob/master/demo_images/home.JPG?raw=true)
 
