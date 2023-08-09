@@ -17,6 +17,12 @@ Follow these steps to set up the project:
 2. npm install
 3. npm run dev
 
+### Demonstration
+### Desktop View
+<br>
+
+![alt text](https://raw.githubusercontent.com/Ne0sky/taskmaster/main/demo_images/about.JPG)
+
 
 
 
