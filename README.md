@@ -1,4 +1,4 @@
-![image](https://github.com/Ne0sky/taskmaster/assets/99585944/e12d3293-71b7-450c-aa14-c80e1dbed6a0)# taskmaster
+# taskmaster
 a task management full stack application
 
 
@@ -21,7 +21,7 @@ Follow these steps to set up the project:
 ### Desktop View
 <br>
 #### Home Page
-![Home Screenshot](https://github.com/Ne0sky/taskmaster/blob/master/demo_images/home.JPG?raw=true)
+![image](https://github.com/Ne0sky/taskmaster/assets/99585944/e12d3293-71b7-450c-aa14-c80e1dbed6a0)
 
 #### Tasks Page
 ![Tasks Screenshot](https://github.com/Ne0sky/taskmaster/blob/master/demo_images/tasks.JPG?raw=true)
