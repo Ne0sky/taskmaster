@@ -21,9 +21,14 @@ Follow these steps to set up the project:
 ### Desktop View
 <br>
 #### Home Page
+
 ![Tasks Screenshot](https://github.com/Ne0sky/taskmaster/blob/master/demo_images/home.JPG?raw=true)
-<br>
+
+
+
 #### Tasks Page
+
+
 ![Tasks Screenshot](https://github.com/Ne0sky/taskmaster/blob/master/demo_images/tasks.JPG?raw=true)
 
 
