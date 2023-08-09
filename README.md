@@ -21,7 +21,7 @@ Follow these steps to set up the project:
 ### Desktop View
 <br>
 
-![About Screenshot](https://raw.githubusercontent.com/Ne0sky/taskmaster/main/demo_images/about.JPG)
+![About Screenshot](https://github.com/Ne0sky/taskmaster/blob/master/demo_images/about.JPG?raw=true)
 
 
 
